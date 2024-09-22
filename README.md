@@ -24,17 +24,11 @@
 
 ```sh
 # 使用 Github 
-git clone --depth=1 https://github.com/yoimiya-kokomi/Miao-Yunzai.git
+git clone --depth=1 https://github.com/misaka20002/Miao-Yunzai.git
 cd Miao-Yunzai 
-git clone --depth=1 https://github.com/yoimiya-kokomi/miao-plugin.git ./plugins/miao-plugin/
+git clone --depth=1 https://github.com/misaka20002/miao-plugin.git ./plugins/miao-plugin/
 ```
 
-```sh
-# 使用Gitee
-git clone --depth=1 https://gitee.com/yoimiya-kokomi/Miao-Yunzai.git
-cd Miao-Yunzai 
-git clone --depth=1 https://gitee.com/yoimiya-kokomi/miao-plugin.git ./plugins/miao-plugin/
-```
 
 ### 安装[pnpm](https://pnpm.io/zh/installation)
 
